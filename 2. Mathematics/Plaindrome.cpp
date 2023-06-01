@@ -13,3 +13,11 @@ bool isPalindrome(int n)
     }
     return (rev == n);
 }
+int main()
+{
+    int n;
+    cout << "Enter the number: ";
+    cin >> n;
+    cout << isPalindrome(n) << endl;
+    return 0;
+}
