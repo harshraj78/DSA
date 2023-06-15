@@ -17,7 +17,7 @@ This repository serves as a comprehensive collection of DSA-related content. It 
 ## Getting Started
 
 To get started with this repository, you can clone it using the following command:
-git clone https://github.com/harshraj78/DSA.git
+`git clone https://github.com/harshraj78/DSA.git`.
 
 Feel free to explore the different directories and files. Each problem is organized within its respective category or topic. You'll find detailed problem statements along with the corresponding solutions.
 
@@ -37,7 +37,7 @@ Please ensure that your contributions align with the purpose of the repository, 
 
 Here are some resources that can be helpful for your DSA preparation:
 
-- [Book: "Introduction to Algorithms" by Thomas H. Cormen et al.](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
+- [Youtube: "mycodeschool.](https://www.youtube.com/@mycodeschool/playlists)
 - [Online Platform: LeetCode](https://leetcode.com/)
 - [Online Platform: HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
 - [Online Platform: GeeksforGeeks](https://www.geeksforgeeks.org/)
