@@ -1,4 +1,4 @@
-# DSA (Data Structures and Algorithms) Repository
+# DSA (Data Structures and Algorithms)
 
 Welcome to the DSA repository! This repository is dedicated to my ongoing preparation for Data Structures and Algorithms. Here, I am actively adding problems and solutions related to various DSA concepts.
 
@@ -16,8 +16,7 @@ This repository serves as a comprehensive collection of DSA-related content. It 
 
 ## Getting Started
 
-To get started with this repository, you can clone it using the following command:
-`git clone https://github.com/harshraj78/DSA.git`.
+To get started with this repository, you can clone it using the following command: `git clone https://github.com/harshraj78/DSA.git`.
 
 Feel free to explore the different directories and files. Each problem is organized within its respective category or topic. You'll find detailed problem statements along with the corresponding solutions.
 
@@ -39,7 +38,6 @@ Here are some resources that can be helpful for your DSA preparation:
 
 - [Youtube: mycodeschool](https://www.youtube.com/@mycodeschool/playlists)
 - [Online Platform: LeetCode](https://leetcode.com/)
-- [Online Platform: HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
 - [Online Platform: GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Best DSA-Sheet: Striver(A-Z)](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
