@@ -37,7 +37,7 @@ Please ensure that your contributions align with the purpose of the repository, 
 
 Here are some resources that can be helpful for your DSA preparation:
 
-- [Youtube: "mycodeschool.](https://www.youtube.com/@mycodeschool/playlists)
+- [Youtube: mycodeschool](https://www.youtube.com/@mycodeschool/playlists)
 - [Online Platform: LeetCode](https://leetcode.com/)
 - [Online Platform: HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
 - [Online Platform: GeeksforGeeks](https://www.geeksforgeeks.org/)
