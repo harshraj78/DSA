@@ -64,7 +64,7 @@ bool isEquilibrium(int arr[], int n)
     int l_sum = 0;
     for (int i = 0; i < n; i++)
     {
-        if (l_sum == totalSum - l_sum - arr[i])
+        if (l_sum == totalSum - arr[i])
         {
             return true;
         }
