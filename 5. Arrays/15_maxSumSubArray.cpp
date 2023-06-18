@@ -27,7 +27,6 @@ int maxSumSubArray(int arr[], int n)
 // 2. Efficient Solution:-
 // Time Complexity = O(n)
 // Space Complexity = O(1)
-// explanation :- compute the sum of the first k elements out of n terms using a linear loop and store the maximum sum found so far in res. Then, traverse the array from (k+1)th element to nth element. To get the current sum of block of k elements, subtract the first element from the previous block and add the current element to the sum of the previous block. Update the res, if required.
 int maxSumSubArray(int arr[], int n)
 {
     int res = arr[0], maxEnding = arr[0];
