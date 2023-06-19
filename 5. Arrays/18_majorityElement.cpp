@@ -40,7 +40,7 @@ int findMajorityElement(int arr[], int n)
 int findMajorityElement(int arr[], int n)
 {
     int res = 0, count = 1;
-    for (int i = 1; i < n; i++)
+    for (int i = 1; i < n; i++) 
     {
         if (arr[res] == arr[i])
         {
@@ -55,7 +55,7 @@ int findMajorityElement(int arr[], int n)
             res = i;
             count = 1;
         }
-    }
+    } // finds a candidade
     count = 0;
     for (int i = 0; i < n; i++)
     {
@@ -67,6 +67,6 @@ int findMajorityElement(int arr[], int n)
     if (count <= n / 2)
     {
         res = -1;
-    }
+    } // checks if the candidate is actually a majority
     return res;
 }
