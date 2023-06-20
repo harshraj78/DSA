@@ -6,7 +6,7 @@
 // o/p :- -1
 // explanation :- {-1}
 
-// 1. Naive Solution:-
+// 1. Naive Solution:- 
 // Time Complexity = O(n*n)
 // Space Complexity = O(1)
 int maxSumSubArray(int arr[], int n)
@@ -24,7 +24,7 @@ int maxSumSubArray(int arr[], int n)
     return res;
 }
 
-// 2. Efficient Solution:-
+// 2. Efficient Solution:- Kadane's Algorithm
 // Time Complexity = O(n)
 // Space Complexity = O(1)
 int maxSumSubArray(int arr[], int n)
