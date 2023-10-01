@@ -18,7 +18,7 @@ This repository serves as a comprehensive collection of DSA-related content. It 
 
 To get started with this repository, you can clone it using the following command: `git clone https://github.com/harshraj78/DSA.git`.
 
-Feel free to explore the different directories and files. Each problem is organized within its respective category or topic. You'll find detailed problem statements along with the corresponding solutions.
+Feel free to explore the different directories and files. Each problem is organized within its respective category or topic. You'll get detailed problem statements along with the corresponding solutions.
 
 ## Contributing
 
